@@ -298,8 +298,6 @@ The sample size of 147,202 per group represents only **51% of the 291,163 users 
 3. 🔁 **If still not significant** — keep the old page and invest in a more impactful redesign
 4. ✅ **If significant** — make a confident, data-driven launch decision
 
-### Key Lesson
-> *"In future experiments, power analysis should be conducted before data collection begins. Using historical conversion rates as p1 and a business-defined MDE to construct p2, the required sample size should be calculated upfront — ensuring the experiment runs long enough to produce trustworthy results."*
 
 ---
 
